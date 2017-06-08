@@ -1,0 +1,23 @@
+var z;
+
+for(var i=0; i<10; i++)
+{
+	z = aleatorio(5, 0);
+	document.write(z + ", ");
+}
+--------------------------
+function dibujarVacas()
+{
+	papel.drawImage(vaca, 10 , 10)
+}
+
+function dibujarCerdos()
+{
+	papel.drawImage(cerdo, 10 , 300)
+}
+
+function dibujarPollos()
+{
+	papel.drawImage(pollo, 300 , 150)
+}
+31:25
